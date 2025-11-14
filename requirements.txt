@@ -1,0 +1,7 @@
+numpy==1.23.5
+gym==0.26.2
+ale-py==0.7.5
+torch>=2.0.0
+torchvision>=0.15.0
+matplotlib>=3.7.0
+torchviz>=0.1.2
