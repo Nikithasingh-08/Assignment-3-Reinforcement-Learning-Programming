@@ -1,0 +1,40 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+venv/
+env/
+.dqn_env/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Python virtual environment
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Plots and figures (optional)
+*.png
+*.jpg
+*.jpeg
+
+# Saved models
+*.pth
+*.pt
+
+# Misc
+*.swp
